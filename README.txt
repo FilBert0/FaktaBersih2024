@@ -1,3 +1,7 @@
+Web Features:
+1) Automatic webscrapping for presidential election news new data from a few website
+2) Passive Aggresif Clasifier model to predict
+
 # pip install
 pip install streamlit
 pip install streamlit_option_menu
